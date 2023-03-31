@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/puppy-picture-slider/static/css/main.ab99248b.css",
+    "main.js": "/puppy-picture-slider/static/js/main.2830503d.js",
+    "static/js/787.3f850d69.chunk.js": "/puppy-picture-slider/static/js/787.3f850d69.chunk.js",
+    "static/media/kaiaOffLead2.jpg": "/puppy-picture-slider/static/media/kaiaOffLead2.2871787c0a2c9bd96acb.jpg",
+    "static/media/kaiaOffLead3.jpg": "/puppy-picture-slider/static/media/kaiaOffLead3.6d6fce462f0cb34c5f40.jpg",
+    "static/media/kaiaOffLead4.jpg": "/puppy-picture-slider/static/media/kaiaOffLead4.4332a75b0ae0bd241525.jpg",
+    "static/media/kaiaWirral5.jpg": "/puppy-picture-slider/static/media/kaiaWirral5.1b800fbe8d43977667fe.jpg",
+    "static/media/kaiaWirral3.jpg": "/puppy-picture-slider/static/media/kaiaWirral3.88ebf8d48958ea6893a2.jpg",
+    "static/media/kaiaWirral4.jpg": "/puppy-picture-slider/static/media/kaiaWirral4.931979d5fe117bca7a6b.jpg",
+    "static/media/kaiaOffLead1.jpg": "/puppy-picture-slider/static/media/kaiaOffLead1.f1e3f26d14d287af3f8a.jpg",
+    "static/media/kaiaWirral.jpg": "/puppy-picture-slider/static/media/kaiaWirral.881f8474f77fc7328ba8.jpg",
+    "static/media/kaiaWirral1.jpg": "/puppy-picture-slider/static/media/kaiaWirral1.8904715acfed31ac9a86.jpg",
+    "index.html": "/puppy-picture-slider/index.html",
+    "main.ab99248b.css.map": "/puppy-picture-slider/static/css/main.ab99248b.css.map",
+    "main.2830503d.js.map": "/puppy-picture-slider/static/js/main.2830503d.js.map",
+    "787.3f850d69.chunk.js.map": "/puppy-picture-slider/static/js/787.3f850d69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab99248b.css",
+    "static/js/main.2830503d.js"
+  ]
+}

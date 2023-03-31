@@ -1,0 +1,2 @@
+A simple app that slides through pictures of my puppy. It is set with a timer, using a set interval function but pictures can also be moved through using the arrows on each side of the picture. 
+The text also changes with each picture. The pictures are stored in an array of objects that also contains the location, title and description for each picture and there are more pictures in the assets folder to add to the array. I used .map to map through the array of objects. 

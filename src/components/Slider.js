@@ -5,7 +5,7 @@ import { RiDoubleQuotesL, RiDoubleQuotesR } from 'react-icons/ri';
 
 
 const Slider = () => {
-
+    // eslint-disable-next-line
     const [ pictures, setPictures ] = useState(pictureData);
     const [ index, setIndex ] = useState(0);
 
